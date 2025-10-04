@@ -12,7 +12,7 @@
     *   “创世纪” (Genesis) / **塞缪尔·阿尔蒙德**
     *   “基石智能” (Keystone Intelligence) / **达里奥·安东尼**
     *   “潮音” (TidalWave) / **张宇航**
-    *   “滕讯” (Tengxun) / **马岳**
+    *   “滕信” (Tengxin) / **马岳**
     *   “深索” (DeepQuest) / **梁文韬**
 *   **物理世界:**
     *   “奥德赛” (Odyssey) / **伊莱·马**
